@@ -1,1 +1,1 @@
-This is a clone of Instagram Web app.
+This is pusblished at https://arunvbiradar.github.io/instagram-web/
